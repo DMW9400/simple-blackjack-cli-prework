@@ -57,6 +57,6 @@ def runner
   # if final_card_count > 21
   #   end_game
   # end
-  while final_card_count < 21
-    final_card_count = 
+  # while final_card_count < 21
+  #   final_card_count = 
 end
