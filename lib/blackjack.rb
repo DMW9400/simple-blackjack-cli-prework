@@ -50,7 +50,7 @@ end
 
 def runner
   welcome
-  # initial_round
+  final_card_count = initial_round
   # hit?
   # display_card_total
   # final_card_count = hit?
