@@ -61,5 +61,5 @@ def runner
     display_card_total(final_card_count)
     final_card_count = final_card_count + hit?(final_card_count)
   end
-  end_game
+  end_game(final_card_count)
 end
